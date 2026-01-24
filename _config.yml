@@ -23,7 +23,7 @@ repository               : "andresgallardoaguero/andresgallardoaguero.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Andrés Gallardo"
   pronouns         : # example: "she/her"  
   bio              : "Master’s student in Economics at the University of St. Gallen, with a strong interest in health economics and causal inference."
