@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-Education
-======
+## Education
+
 **University of St. Gallen (HSG)**  
 Master of Arts in Economics, School of Economics and Political Science  
 September 2024 - July 2026, St. Gallen, Switzerland  
@@ -31,8 +31,7 @@ March 2020 - December 2023, Santiago, Chile
 
 <br>
 
-Research and Professional Experience
-======
+## Research and Professional Experience
 
 **University of St. Gallen**  
 Research Assistant  
@@ -83,8 +82,7 @@ January 2024 - February 2024, On site
 
 <br>
 
-Teaching Experience
-======
+## Teaching Experience
 
 **Universidad Adolfo Ibáñez**  
 Teaching Assistant  
@@ -101,8 +99,7 @@ August 2021 - July 2024, On site
 
 <br>
 
-Additional Information
-======
+## Additional Information
 
 **Technical Skills**  
 Python, R, STATA, Julia, SQL, LaTeX, Bloomberg Market Concepts
