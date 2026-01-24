@@ -94,6 +94,7 @@ publication_category:
     title: 'Work in Progress'
 
 # Site Settings
+enable_theme_switcher    : false
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
