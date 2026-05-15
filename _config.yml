@@ -85,8 +85,6 @@ author:
 # of the keys below. The Research page iterates these in order and renders a
 # section heading for each. Add new categories (e.g. published) here as needed.
 publication_category:
-  working_papers:
-    title: 'Working Papers'
   research_in_progress:
     title: 'Research in Progress'
 
