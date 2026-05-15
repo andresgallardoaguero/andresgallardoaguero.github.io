@@ -5,6 +5,7 @@ type: "Teaching Assistant"
 permalink: /teaching/uai-teaching-assistant
 venue: "Universidad Adolfo Ibáñez, School of Business"
 date: 2021-03-01
+date_range: "2021–2024"
 location: "Santiago, Chile"
 ---
 
