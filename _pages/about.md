@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Economics at the University of St. Gallen, specializing in Data Science and AI in Economics. My research sits at the intersection of causal machine learning and clinical data, with a focus on heterogeneous treatment effects applied to critical care medicine. Before St. Gallen, I completed my undergraduate degree in Economics at Universidad Adolfo Ibáñez in Chile.
+I am a master's student in Economics at the University of St. Gallen, specializing in Data Science and AI in Economics. My research sits at the intersection of causal machine learning and clinical data, with a focus on heterogeneous treatment effects applied to critical care medicine. Before coming to St. Gallen, I completed my undergraduate degree in Economics at Universidad Adolfo Ibáñez in Chile.
 
 ## Research interests
 
