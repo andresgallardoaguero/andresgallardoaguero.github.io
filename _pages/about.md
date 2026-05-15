@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andres Gallardo Aguero"
+title: "Andrés Gallardo Agüero"
 author_profile: true
 redirect_from: 
   - /about/

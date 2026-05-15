@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Andres Gallardo Aguero"
+title                    : "Andrés Gallardo Agüero"
 title_separator          : "-"
-name                     : &name "Andres Gallardo Aguero"
-description              : &description "Andres Gallardo Aguero — MA Economics student at the University of St. Gallen. Research at the intersection of causal machine learning, econometrics, and clinical data."
+name                     : &name "Andrés Gallardo Agüero"
+description              : &description "Andrés Gallardo Agüero, master's student in Economics at the University of St. Gallen. Research at the intersection of causal machine learning, econometrics, and clinical data."
 url                      : https://andresgallardoaguero.github.io
 baseurl                  : ""
 repository               : "andresgallardoaguero/andresgallardoaguero.github.io"
@@ -23,9 +23,9 @@ repository               : "andresgallardoaguero/andresgallardoaguero.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Andres Gallardo Aguero"
+  name             : "Andrés Gallardo Agüero"
   pronouns         : # example: "she/her"
-  bio              : "MA Economics student at the University of St. Gallen. Causal machine learning, treatment-effect heterogeneity, and clinical data."
+  bio              : "Master's student in Economics at the University of St. Gallen. Causal machine learning, treatment-effect heterogeneity, and clinical data."
   location         : "St. Gallen, Switzerland"
   employer         : "University of St. Gallen"
   uri              : # URL
@@ -34,10 +34,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL — add once you have a Google Scholar profile
+  googlescholar    : # URL. Add once you have a Google Scholar profile.
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL — add once you have an ORCID
+  orcid            : # URL. Add once you have an ORCID.
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
