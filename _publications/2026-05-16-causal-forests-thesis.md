@@ -5,10 +5,10 @@ category: research_in_progress
 permalink: /publication/causal-forests-thesis
 date: 2026-05-16
 venue: "Master's thesis, University of St. Gallen (in progress)"
-excerpt: "Master's thesis at the University of St. Gallen, supervised by Prof. Dr. Jana Mareckova and Dr. Justus Vogel. A simulation study with known ground truth that evaluates whether causal forest methods and their variable importance measures correctly identify the variables driving heterogeneous treatment effects in clinical data."
+excerpt: "Master's thesis at the University of St. Gallen, supervised by [Prof. Dr. Jana Mareckova](https://sites.google.com/view/janamareckova/) and [Dr. Justus Vogel](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/9acbc1c5-f703-41b5-8fd5-cfb5d2edc825/). A simulation study with known ground truth that evaluates whether causal forest methods and their variable importance measures correctly identify the variables driving heterogeneous treatment effects in clinical data."
 ---
 
-Master's thesis at the University of St. Gallen, supervised by Prof. Dr. Jana Mareckova and co-supervised by Dr. Justus Vogel. Expected submission: 17 November 2026.
+Master's thesis at the University of St. Gallen, supervised by [Prof. Dr. Jana Mareckova](https://sites.google.com/view/janamareckova/) and co-supervised by [Dr. Justus Vogel](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/9acbc1c5-f703-41b5-8fd5-cfb5d2edc825/). Expected submission: 17 November 2026.
 
 The thesis is a simulation study with known ground truth that asks two questions about causal forest methods. First, whether the variable importance measures of these methods correctly identify the variables that drive heterogeneous treatment effects. Second, how reliably the underlying estimators (Generalized Random Forests and Modified Causal Forests) recover those effects to begin with.
 
