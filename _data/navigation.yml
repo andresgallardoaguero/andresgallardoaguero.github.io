@@ -2,32 +2,31 @@
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# prevent it from being included in the site. Commented-out entries below are
+# kept for reference so they can be re-enabled by uncommenting.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # Talks page exists at /talks/ but is hidden from the header until the site
+  # owner gives their first talk. Uncomment to re-enable.
+  # - title: "Talks"
+  #   url: /talks/
+
+  # The following entries from the Academic Pages template are intentionally
+  # disabled:
+  # - Portfolio: removed because it is more relevant for designer or developer
+  #   sites than for early-career researchers.
+  # - Blog Posts: removed because there is no blog yet.
+  # - Guide: removed because that page is the template authors' own
+  #   documentation, not site content.
