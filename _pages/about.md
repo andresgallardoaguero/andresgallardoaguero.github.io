@@ -17,6 +17,6 @@ I am a master's student in Economics at the University of St. Gallen, specializi
 
 ## Currently
 
-I am developing my master's thesis on **causal forest methods for treatment effect heterogeneity**: a simulation study evaluating whether methods like GRF and MCF (and their variable importance measures) correctly recover heterogeneous effects and identify the variables that drive them, using clinical data-generating processes with known ground truth.
+I am developing my master's thesis on **variable importance for treatment effect heterogeneity**: a simulation study with known ground truth that asks whether variable importance measures correctly identify the variables that drive heterogeneous treatment effects, and how reliably causal forest estimators like GRF and MCF recover those effects, using clinical data-generating processes.
 
-I am also co-authoring **"Whom to prioritize? Causal effects of treatment target non-adherence on mortality in intensive care medicine"** with Justus Vogel, Julian Klug, Miodrag Filipovic, and Urs Pietsch. The paper has been accepted for oral presentation at the EuHEA Conference 2026.
+I am also co-authoring **"Whom to prioritize? Causal effects of treatment target non-adherence on mortality in intensive care medicine"** with Justus Vogel, Julian Klug, Miodrag Filipovic, and Urs Pietsch. The paper has been accepted for oral presentation at the [EuHEA Conference 2026](https://euhea.eu/welcome_conference_2026.html) in Rotterdam, and for presentation in an [ASHEcon](https://www.ashecon.org/)-nominated session at the [ASSA 2027 Annual Meeting](https://www.aeaweb.org/conference/) in Washington, D.C.
