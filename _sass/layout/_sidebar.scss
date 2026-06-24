@@ -160,6 +160,11 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
+      // render non-square photos as a circle rather than an oval
+      width: 175px;
+      height: 175px;
+      object-fit: cover;
+      object-position: center 20%;
     }
   }
 }
