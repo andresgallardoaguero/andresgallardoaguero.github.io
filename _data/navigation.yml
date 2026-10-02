@@ -6,9 +6,6 @@
 # kept for reference so they can be re-enabled by uncommenting.
 
 main:
-  - title: "About"
-    url: /
-
   - title: "Research"
     url: /research/
 
