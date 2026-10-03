@@ -3,15 +3,15 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /teaching/uai-teaching-assistant
 ---
 
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-    </h2>
+  <article itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
     <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.location }}, {% if post.date_range %}{{ post.date_range }}{% else %}{{ post.date | date: "%Y" }}{% endif %}</p>
     {{ post.content }}
   </article>
