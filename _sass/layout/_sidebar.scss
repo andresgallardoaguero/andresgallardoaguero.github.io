@@ -314,15 +314,17 @@
 
   /* the email address may break after the @ when the sidebar is too narrow for it */
   li.author__email {
-    white-space: normal;
+    @include breakpoint($large) {
+      white-space: normal;
 
-    a {
-      padding-left: 1.85em;
-      text-indent: -1.85em;
-    }
+      a {
+        padding-left: 1.85em;
+        text-indent: -1.85em;
+      }
 
-    i {
-      text-indent: 0;
+      i {
+        text-indent: 0;
+      }
     }
   }
 
