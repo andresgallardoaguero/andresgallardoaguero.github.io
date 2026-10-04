@@ -243,6 +243,9 @@
 
   button {
     margin-bottom: 0;
+    /* accent colour so the button is easy to spot */
+    color: var(--global-base-color) !important;
+    border-color: var(--global-base-color) !important;
 
     @include breakpoint($large) {
       display: none;
