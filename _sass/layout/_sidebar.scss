@@ -314,8 +314,17 @@
 
   /* the email address may break after the @ when the sidebar is too narrow for it */
   li.author__email {
+    /* browsers break at <wbr> even in nowrap text, so switch it off in the phone menu */
+    wbr {
+      display: none;
+    }
+
     @include breakpoint($large) {
       white-space: normal;
+
+      wbr {
+        display: inline;
+      }
 
       a {
         padding-left: 1.85em;
